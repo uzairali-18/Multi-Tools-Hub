@@ -516,8 +516,8 @@ body {
 }
 
 .dev-photo {
-    width: 220px;
-    height: 220px;
+    width: 420px;
+    height: 420px;
     border-radius: 50%;
     border: 6px solid white;
     box-shadow: 0 20px 40px rgba(59, 130, 246, 0.3), 0 0 0 12px rgba(59, 130, 246, 0.1);
@@ -543,8 +543,8 @@ body {
 }
 
 .dev-photo-placeholder {
-    width: 220px;
-    height: 220px;
+    width: 420px;
+    height: 420px;
     border-radius: 50%;
     border: 6px solid white;
     box-shadow: 0 20px 40px rgba(59, 130, 246, 0.3), 0 0 0 12px rgba(59, 130, 246, 0.1);
